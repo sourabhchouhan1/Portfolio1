@@ -96,7 +96,7 @@ const Contact = () => {
         {/* Footer */}
         <div className="text-center mt-16 pt-8 border-t border-border">
           <p className="text-muted-foreground">
-            © 2024 Sourabh Singh Chouhan. Built with ❤️ using React & TypeScript
+            © Sourabh Singh Chouhan. Built with React, TypeScript and Tailwind CSS.
           </p>
         </div>
       </div>
