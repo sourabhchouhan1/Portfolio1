@@ -17,7 +17,7 @@ const Projects = () => {
       ],
       links: {
         github: 'https://github.com/sourabhchouhan1/RollBased-Office-Management-System',
-        live: https://officexmangement.vercel.app/login'
+        live: 'https://officexmangement.vercel.app/login'
       }
     },
     {
