@@ -16,8 +16,8 @@ const Projects = () => {
         'Customer data visualization'
       ],
       links: {
-        github: 'https://github.com/sourabhchouhan1',
-        live: '#'
+        github: 'https://github.com/sourabhchouhan1/RollBased-Office-Management-System',
+        live: https://officexmangement.vercel.app/login'
       }
     },
     {
@@ -33,8 +33,8 @@ const Projects = () => {
         'Invoice management system'
       ],
       links: {
-        github: 'https://github.com/sourabhchouhan1',
-        live: '#'
+        github: '',
+        live: ''
       }
     }
   ];
