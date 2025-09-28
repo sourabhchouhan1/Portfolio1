@@ -33,8 +33,8 @@ const Projects = () => {
         'Invoice management system'
       ],
       links: {
-        github: '',
-        live: ''
+        github: 'https://github.com/sourabhchouhan1/Whatsapp-Bill-Automation',
+        live: 'whatsapp-bill-automation.vercel.app'
       }
     }
   ];
